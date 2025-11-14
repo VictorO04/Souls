@@ -45,7 +45,7 @@ main {
 
 .jogos img{
     width: 12vw;
-    height: 32vh;
+    height: 36vh;
     border-radius: 10px;
     transition: transform 0.4s, box-shadow 0.4s;
 }
